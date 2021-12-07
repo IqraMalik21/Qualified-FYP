@@ -1,3 +1,5 @@
+//rtl usage not understood(& removed)
+
 /*eslint-disable*/
 import React from "react";
 import classNames from "classnames";

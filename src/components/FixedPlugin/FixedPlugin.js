@@ -1,3 +1,5 @@
+//rtl usage not understood(& removed)
+
 /*eslint-disable*/
 import React, { Component } from "react";
 // nodejs library to set properties for components

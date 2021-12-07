@@ -1,3 +1,5 @@
+//rtl usage not understood(& removed)
+
 import React from "react";
 import classNames from "classnames";
 // @material-ui/core components

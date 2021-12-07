@@ -1,3 +1,5 @@
+//rtl usage not understood(& removed)
+
 import routes from "routes";
 
 export const useRouteName = () => {

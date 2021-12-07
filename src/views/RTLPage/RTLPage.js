@@ -1,3 +1,5 @@
+//File to be deleted after rtl usage not understood(& removed)
+
 /*eslint-disable*/
 import React from "react";
 // react plugin for creating charts
